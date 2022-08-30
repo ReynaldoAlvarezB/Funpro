@@ -1,4 +1,4 @@
-# Funpro
+# Fundamentos de Programación
 
 ¡Hola!
 
@@ -6,3 +6,6 @@ Este es un repositorio donde subiré ejercicios resueltos del curso "Fundamentos
 
 Los ejercicios estarán divididos por semanas. Puedes usar estos recursos libremente para estudiar y como referencia a la hora de practicar.
 
+Recuerda que si quieres hacerme cualquier pregunta, comentario o sugerencia, puedes escribirme en discord:
+
+reyi21#6843
