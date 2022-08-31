@@ -22,7 +22,7 @@ int main() {
 
     double lado, area;
 
-    printf("Ingrese el lado del cuadrado: ");
+    printf("Ingrese el lado del cuadrado:  ");
 
     scanf("%lf", &lado);
     //Importar math.h
