@@ -9,3 +9,6 @@ Los ejercicios estarán divididos por semanas. Puedes usar estos recursos librem
 Recuerda que si quieres hacerme cualquier pregunta, comentario o sugerencia, puedes escribirme en discord:
 
 reyi21#6843
+
+Si te gusta mi contenido puedes colaborar en mi Yape:
+https://imgur.com/TfNziqv
