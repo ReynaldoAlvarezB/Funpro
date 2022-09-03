@@ -1,7 +1,8 @@
 #include<stdio.h>
 #include<math.h>
 
-#define PI 3.1415926;
+//CONSTANTES
+#define PI 3.14159
 
 /*
 2. ´Area del c´ırculo
@@ -11,19 +12,18 @@ Dado el radio de determinado c´ırculo, se pide calcular el ´area usando la f�
 
 int main() {
 		
-	int radio;
-	double area;
+	double radio, area;
 
 	
 
 	printf("Ingrese el radio: ");
-	scanf("%i", &radio);
+	scanf("%lf", &radio);
 
 	area = pow(radio, 2) * PI;
 
-	printf("\nEl area es %.2lf \n", area);
+	printf("\nEl area es %lf \n", area);
 
 
 	main(); //Solo pongo esto para que se vuelva a ejecutar al terminar
 	return 0;
-}|
+}

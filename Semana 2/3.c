@@ -1,5 +1,8 @@
 #include<stdio.h>
 #include<math.h>
+
+
+
 /*
 
 3. ´Area del tri´angulo
@@ -36,10 +39,11 @@ int main() {
     Aplicamos Herón
     
     */
+
+
     s = (lado1 + lado2 + lado3)/2;
 
     area = pow((s * (s-lado1) * (s-lado2) * (s-lado3)), 0.5);
-	//area = 120;
 
     printf("El area es %lf\n", area);
     
