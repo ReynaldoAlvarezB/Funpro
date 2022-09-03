@@ -1,17 +1,19 @@
 #include<stdio.h>
 
-int main() {
+/*
+	
+	
+	
+	
+	
+	
+	
+	
+*/
 
-	/*
-	
-	
-	
-	
-	
-	
-	
-	
-	*/
+
+
+int main() {
 
 	printf("");
 	printf("\n HI!\n ");
