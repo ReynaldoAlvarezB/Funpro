@@ -1,4 +1,4 @@
-#include<stdio.h>
+|#include<stdio.h>
 
 /*
 	3. Comparaci´on con cero
@@ -34,3 +34,5 @@ int main() {
 	main(); //Solo pongo esto para que se vuelva a ejecutar al terminar
 	return 0;
 }
+
+
